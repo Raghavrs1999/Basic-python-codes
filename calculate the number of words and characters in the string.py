@@ -1,0 +1,5 @@
+s = input("Enter string: ")
+w_count = len(s.split())
+print("Total words are{} ".format(w_count))
+c_count = len(s)
+print("Total characters are {}".format(c_count))
